@@ -31,4 +31,4 @@ This is a rule-based academic prototype, not a trained machine-learning model. T
 
 ## Background
 
-Created for UMBC CMSC 471 coursework. The original program is preserved here; the repository documentation explains its behavior and limitations.
+Created for optional UMBC CMSC 471 coursework. The original program is preserved here; the repository documentation explains its behavior and limitations.
